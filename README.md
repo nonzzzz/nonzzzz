@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nonzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="nonzzzz" />
+  <a href="https://wakatime.com/@733b9f35-8b5b-433e-8958-fdb058e1ba07"><img src="https://wakatime.com/badge/user/733b9f35-8b5b-433e-8958-fdb058e1ba07.svg" /></a>
 </p>
 
 - 🔭 I’m currently working on **[Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Ide)**
